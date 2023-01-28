@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.2.8818
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memorama", "memorama\memorama.csproj", "{1E765900-57D0-45F5-BEC0-22DA81037C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E765900-57D0-45F5-BEC0-22DA81037C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E765900-57D0-45F5-BEC0-22DA81037C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E765900-57D0-45F5-BEC0-22DA81037C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E765900-57D0-45F5-BEC0-22DA81037C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

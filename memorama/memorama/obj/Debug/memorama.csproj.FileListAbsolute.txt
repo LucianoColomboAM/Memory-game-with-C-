@@ -1,0 +1,41 @@
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\obj\Debug\memorama.csprojResolveAssemblyReference.cache
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\obj\Debug\memorama.MainForm.resources
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\obj\Debug\memorama.csproj.GenerateResource.Cache
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\bin\Debug\memorama.exe.config
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\bin\Debug\memorama.exe
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\bin\Debug\memorama.pdb
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\obj\Debug\memorama.exe
+C:\Users\DELLJERE\Documents\SharpDevelop Projects\memorama\memorama\obj\Debug\memorama.pdb
+C:\Users\Luciano\Desktop\memorama\memorama\bin\Debug\memorama.exe.config
+C:\Users\Luciano\Desktop\memorama\memorama\bin\Debug\memorama.exe
+C:\Users\Luciano\Desktop\memorama\memorama\bin\Debug\memorama.pdb
+C:\Users\Luciano\Desktop\memorama\memorama\obj\Debug\memorama.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\Desktop\memorama\memorama\obj\Debug\memorama.csproj.GenerateResource.Cache
+C:\Users\Luciano\Desktop\memorama\memorama\obj\Debug\memorama.exe
+C:\Users\Luciano\Desktop\memorama\memorama\obj\Debug\memorama.pdb
+H:\memorama\memorama\bin\Debug\memorama.exe.config
+H:\memorama\memorama\bin\Debug\memorama.exe
+H:\memorama\memorama\bin\Debug\memorama.pdb
+H:\memorama\memorama\obj\Debug\memorama.csprojResolveAssemblyReference.cache
+H:\memorama\memorama\obj\Debug\memorama.csproj.GenerateResource.Cache
+H:\memorama\memorama\obj\Debug\memorama.exe
+H:\memorama\memorama\obj\Debug\memorama.pdb
+H:\memorama\memorama\obj\Debug\memorama._4x4.resources
+H:\memorama\memorama\obj\Debug\memorama._6x6.resources
+H:\memorama\memorama\obj\Debug\memorama.Form2Jugadores.resources
+H:\memorama\memorama\obj\Debug\memorama.MainForm.resources
+F:\memorama\memorama\bin\Debug\memorama.exe.config
+F:\memorama\memorama\bin\Debug\memorama.exe
+F:\memorama\memorama\bin\Debug\memorama.pdb
+F:\memorama\memorama\obj\Debug\memorama.csprojResolveAssemblyReference.cache
+F:\memorama\memorama\obj\Debug\memorama.Form2Jugadores.resources
+F:\memorama\memorama\obj\Debug\memorama.Form2.resources
+F:\memorama\memorama\obj\Debug\memorama._4x4.resources
+F:\memorama\memorama\obj\Debug\memorama._6x6.resources
+F:\memorama\memorama\obj\Debug\memorama.MainForm.resources
+F:\memorama\memorama\obj\Debug\memorama.csproj.GenerateResource.Cache
+F:\memorama\memorama\obj\Debug\memorama.exe
+F:\memorama\memorama\obj\Debug\memorama.pdb
+H:\memorama\memorama\obj\Debug\memorama.Form1Prueba.resources
+H:\memorama\memorama\obj\Debug\memorama.Hardcore.resources
+H:\memorama\memorama\obj\Debug\memorama.Hardcore2.resources
